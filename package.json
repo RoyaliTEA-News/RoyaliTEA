@@ -1,0 +1,38 @@
+{
+  "name": "royalitea",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "The monorepo for RoyaliTEA's Discord bot, API, and website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:bot": "cd monolith/bot && pnpm start",
+    "dev:bot": "cd monolith/bot && pnpm dev",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyaliTEA-News/RoyaliTEA.git"
+  },
+  "keywords": [
+    "radio",
+    "news",
+    "radios",
+    "radio",
+    "news",
+    "music"
+  ],
+  "author": "PiggyPlex <piggyplex@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/RoyaliTEA-News/RoyaliTEA/issues"
+  },
+  "homepage": "https://github.com/RoyaliTEA-News/RoyaliTEA#readme",
+  "devDependencies": {
+    "ava": "^4.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
