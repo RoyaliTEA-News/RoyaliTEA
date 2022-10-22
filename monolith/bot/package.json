@@ -1,4 +1,5 @@
 {
+    "name": "@royalitea/bot",
     "type": "module",
     "main": "src/index.js",
     "license": "UNLICENSED",
