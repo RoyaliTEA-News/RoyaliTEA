@@ -4,14 +4,14 @@ specifiers:
   debug: ^4.3.4
   discord.js: ^14.2.0
   dotenv: ^16.0.1
-  jellycommands: 1.0.0-next.32
+  jellycommands: 1.0.0-next.38
   nodemon: ^2.0.19
 
 dependencies:
   debug: 4.3.4
   discord.js: 14.6.0
   dotenv: 16.0.3
-  jellycommands: 1.0.0-next.32_mt7chptxbmv3pgqj32ia5bxlai
+  jellycommands: 1.0.0-next.38_mt7chptxbmv3pgqj32ia5bxlai
 
 devDependencies:
   nodemon: 2.0.20
@@ -351,8 +351,8 @@ packages:
     engines: {node: '>=0.12.0'}
     dev: true
 
-  /jellycommands/1.0.0-next.32_mt7chptxbmv3pgqj32ia5bxlai:
-    resolution: {integrity: sha512-f4m7jamaSK/KcYzHTc/bpEPniAZJAIFt9ybZGdgE3P+e63adIDBzBCDYiZuAjeDOy3P8dBcVNKyxahEOnb4fcA==}
+  /jellycommands/1.0.0-next.38_mt7chptxbmv3pgqj32ia5bxlai:
+    resolution: {integrity: sha512-1ZErZxbyJYxuF/lETg69q39C8yRZ+KkDNbizTOklAUkv0XRlp4zjJ0teDUvnKglRgvOCNV6w10ePiGowJApV4A==}
     peerDependencies:
       discord.js: ^14.0.0
     dependencies:

@@ -14,6 +14,7 @@ const client = new JellyCommands({
 			},
 		},
 	},
+	cache: true,
 	dev: {
 		global: true,
 		guilds: ['906890954009636934'],
